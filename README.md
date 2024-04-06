@@ -8,15 +8,15 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## About Me
 
-I'm a passionate data enthusiast with a solid foundation in statistics and programming. Currently working as a Machine Learning Intern, I'm enthusiastic about leveraging data to derive actionable insights and drive decision-making processes. I hold a [Your Degree] in [Your Field] from [Your University].
+I'm a passionate data enthusiast with a solid foundation in statistics and programming. Currently working as a Machine Learning Intern, I'm enthusiastic about leveraging data to derive actionable insights and drive decision-making processes. I hold a Bachlor degree in Computer from Modern Education Society's College of Engineering, Pune.
 
 ## My Projects
 
 ### Automatic Vehicle Number Plate Detection using Deep Learning
-Developed a real-time vehicle number plate detection system to assist college security guards. The system utilizes YOLO object detection to identify license plates and sends notifications to designated personnel. [Link to project repository]
+Developed a real-time vehicle number plate detection system to assist college security guards. The system utilizes YOLO object detection to identify license plates and sends notifications to designated personnel. 
 
 ### IPL First Inning Score Predictor using Machine Learning
-Built a predictive model to estimate first-inning scores in IPL matches based on game conditions. Achieved high accuracy using machine learning techniques. [Link to project repository]
+Built a predictive model to estimate first-inning scores in IPL matches based on game conditions. Achieved high accuracy using machine learning techniques. (https://github.com/SanyujaShelke/IPL-First-Inning-Score-Predictor)
 
 ## Skills
 
@@ -26,7 +26,7 @@ Built a predictive model to estimate first-inning scores in IPL matches based on
 - HTML
 - CSS
 
-### Data Science & Machine Learning
+### Machine Learning & Deep Learning
 - Pandas
 - NumPy
 - Matplotlib
@@ -35,7 +35,7 @@ Built a predictive model to estimate first-inning scores in IPL matches based on
 - TensorFlow
 - Keras
 
-### Web Development
+### Python Framework
 - Django
 - Flask
 
