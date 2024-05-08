@@ -34,14 +34,22 @@ Built a predictive model to estimate first-inning scores in IPL matches based on
 - Scikit-learn
 - TensorFlow
 - Keras
+- Natural Language Processing (NLP)
 
 ### Python Framework
 - Django
 - Flask
 
+### Data Visualization
+- Power BI
+- Tableau
+
 ### Databases
 - MySQL
 - SQLite
+
+### Version Control
+- Git
 
 ## Get in Touch
 
