@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## About Me
 
-I'm a passionate data enthusiast with a solid foundation in statistics and programming. Currently working as a Machine Learning Intern, I'm enthusiastic about leveraging data to derive actionable insights and drive decision-making processes. I hold a Bachlor degree in Computer from Modern Education Society's College of Engineering, Pune.
+I'm a passionate data enthusiast with a solid foundation in statistics and programming. Currently working as a Machine Learning Intern, I'm enthusiastic about leveraging data to derive actionable insights and drive decision-making processes. I hold a Bachelor's degree in Computer Engineering from Modern Education Society's College of Engineering, Pune.
 
 ## My Projects
 
@@ -16,7 +16,7 @@ I'm a passionate data enthusiast with a solid foundation in statistics and progr
 Developed a real-time vehicle number plate detection system to assist college security guards. The system utilizes YOLO object detection to identify license plates and sends notifications to designated personnel. 
 
 ### IPL First Inning Score Predictor using Machine Learning
-Built a predictive model to estimate first-inning scores in IPL matches based on game conditions. Achieved high accuracy using machine learning techniques. (https://github.com/SanyujaShelke/IPL-First-Inning-Score-Predictor)
+Built a predictive model to estimate first-inning scores in IPL matches based on game conditions. Achieved high accuracy using machine learning techniques. [GitHub Repository](https://github.com/SanyujaShelke/IPL-First-Inning-Score-Predictor)
 
 ## Skills
 
@@ -36,7 +36,7 @@ Built a predictive model to estimate first-inning scores in IPL matches based on
 - Keras
 - Natural Language Processing (NLP)
 
-### Python Framework
+### Python Frameworks
 - Django
 - Flask
 
@@ -50,6 +50,9 @@ Built a predictive model to estimate first-inning scores in IPL matches based on
 
 ### Version Control
 - Git
+
+### Cloud Services
+- AWS (EC2, S3, SageMaker)
 
 ## Get in Touch
 
