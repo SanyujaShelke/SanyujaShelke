@@ -12,11 +12,26 @@ I'm a passionate data enthusiast with a solid foundation in statistics and progr
 
 ## My Projects
 
-### Automatic Vehicle Number Plate Detection using Deep Learning
-Developed a real-time vehicle number plate detection system to assist college security guards. The system utilizes YOLO object detection to identify license plates and sends notifications to designated personnel. 
+### Mobile Number Extractor
+This is a web application for extracting mobile numbers from images. Users can upload multiple images, and the application will extract any mobile numbers found in the images and display them on the screen. The extracted mobile numbers are also saved in an Excel file. [GitHub Repository](https://github.com/SanyujaShelke/Number-Extractor-From-Image)
+
+### Inventory Analysis
+Created a Power BI dashboard for Inventory Analysis, detailing stock levels, turnover rates, and inventory costs. [GitHub Repository](https://github.com/SanyujaShelke/Inventory-Analysis)
+
+### Project Management System
+Developed a Django-based REST API system for client and project management. Implemented CRUD operations for clients and projects, including user authentication and authorization. [GitHub Repository](https://github.com/SanyujaShelke/Nimap_Python_Machine_Test)
+
+### Face Recognition System
+This project implements a Face Recognition System using Convolutional Neural Networks (CNN) with TensorFlow and Keras. The system uses a dataset of images to train a CNN model to recognize faces. [GitHub Repository](https://github.com/SanyujaShelke/Face-Recognition-System) 
+
+### Vendor Management System
+Developed RESTful APIs using Django and Django REST Framework for managing vendors, purchase orders, and performance metrics. Implemented CRUD operations for vendors and purchase orders, including vendor performance metrics such as on-time delivery rate and quality rating average. [GitHub Repository](https://github.com/SanyujaShelke/Vendor-Management-System)
 
 ### IPL First Inning Score Predictor using Machine Learning
 Built a predictive model to estimate first-inning scores in IPL matches based on game conditions. Achieved high accuracy using machine learning techniques. [GitHub Repository](https://github.com/SanyujaShelke/IPL-First-Inning-Score-Predictor)
+
+### Automatic Vehicle Number Plate Detection using Deep Learning
+Developed a real-time vehicle number plate detection system to assist college security guards. The system utilizes YOLO object detection to identify license plates and sends notifications to designated personnel. [GitHub Repository](https://github.com/SanyujaShelke/Automatic-Vehicle-Number-Plate-Detection-System) 
 
 ## Skills
 
