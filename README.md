@@ -3,12 +3,10 @@
 Welcome to my GitHub profile! Here's a little about me:
 
 - 👀 I’m interested in the field of Data Science.
-- 🌱 I’m currently working as a Machine Learning Intern.
 - 📫 You can reach me at shelkesanyuja7774@gmail.com.
 
 ## About Me
-
-I'm a passionate data enthusiast with a solid foundation in statistics and programming. Currently working as a Machine Learning Intern, I'm enthusiastic about leveraging data to derive actionable insights and drive decision-making processes. I hold a Bachelor's degree in Computer Engineering from Modern Education Society's College of Engineering, Pune.
+I am amotivated professional with internship experience in data science and machine learning. I am passionate about leveraging data-driven insights to solve complex problems. With a strong foundation in data analysis and a dedication to continuous learning, I am eager to contribute to impactful projects in roles such as data scientist, data analyst, ML developer, or Python developer. I hold a Bachelor's degree in Computer Engineering from Modern Education Society's College of Engineering, Pune.
 
 ## My Projects
 
