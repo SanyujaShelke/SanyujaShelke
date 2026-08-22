@@ -1,76 +1,163 @@
-# 👋 Hi there, I'm Sanyuja Shelke!
+# 👋 Hi, I'm Sanyuja Shelke
 
-Welcome to my GitHub profile! Here's a little about me:
+### Software Engineer | AI Engineer | GenAI & Agentic AI
 
-- 👀 I’m interested in the field of Data Science.
-- 📫 You can reach me at shelkesanyuja7774@gmail.com.
+I'm a Software Engineer working in the AI team at **TRIARQ Health**, building production-grade AI and software solutions for healthcare workflows.
 
-## About Me
-I am amotivated professional with internship experience in data science and machine learning. I am passionate about leveraging data-driven insights to solve complex problems. With a strong foundation in data analysis and a dedication to continuous learning, I am eager to contribute to impactful projects in roles such as data scientist, data analyst, ML developer, or Python developer. I hold a Bachelor's degree in Computer Engineering from Modern Education Society's College of Engineering, Pune.
+I have experience across **Generative AI, Agentic AI, Document AI, speech-to-text, backend development and cloud-based applications**, with a strong focus on taking solutions from planning and architecture through development, testing, deployment and production validation.
 
-## My Projects
+## 🚀 About Me
 
-### Mobile Number Extractor
-This is a web application for extracting mobile numbers from images. Users can upload multiple images, and the application will extract any mobile numbers found in the images and display them on the screen. The extracted mobile numbers are also saved in an Excel file. [GitHub Repository](https://github.com/SanyujaShelke/Number-Extractor-From-Image)
+* 💻 Software Engineer in the **AI Team at TRIARQ Health**
+* 🤖 Experienced in **LLMs, Gemini, Vertex AI, Agentic AI, Document AI and Speech-to-Text**
+* 🏗️ Experience in **solution planning, architecture discussions, task planning, development, testing and deployment**
+* 👥 Currently leading the **AI team** and coordinating technical execution and cross-functional requirements
+* ☁️ Hands-on experience with **Google Cloud Platform (GCP)** and cloud-native AI solutions
+* 🐍 Strong background in **Python, FastAPI, Flask and Django**
+* 🌐 Experience building full-stack applications using **Angular + FastAPI**
+* 🏥 Focused on applying AI to solve real-world **healthcare and clinical workflow problems**
+* 🎓 Bachelor's degree in **Computer Engineering**
 
-### Inventory Analysis
-Created a Power BI dashboard for Inventory Analysis, detailing stock levels, turnover rates, and inventory costs. [GitHub Repository](https://github.com/SanyujaShelke/Inventory-Analysis)
+## 🧠 Current Focus
 
-### Project Management System
-Developed a Django-based REST API system for client and project management. Implemented CRUD operations for clients and projects, including user authentication and authorization. [GitHub Repository](https://github.com/SanyujaShelke/Nimap_Python_Machine_Test)
+I'm currently working on:
 
-### Face Recognition System
-This project implements a Face Recognition System using Convolutional Neural Networks (CNN) with TensorFlow and Keras. The system uses a dataset of images to train a CNN model to recognize faces. [GitHub Repository](https://github.com/SanyujaShelke/Face-Recognition-System) 
+* **Generative AI & LLM applications**
+* **Agentic AI systems**
+* **Healthcare AI**
+* **Clinical documentation automation**
+* **Document AI & intelligent data extraction**
+* **Cloud-based AI solutions**
+* **Python backend development**
+* **AI solution architecture and technical leadership**
 
-### Vendor Management System
-Developed RESTful APIs using Django and Django REST Framework for managing vendors, purchase orders, and performance metrics. Implemented CRUD operations for vendors and purchase orders, including vendor performance metrics such as on-time delivery rate and quality rating average. [GitHub Repository](https://github.com/SanyujaShelke/Vendor-Management-System)
+## 🔥 Featured Projects
 
-### IPL First Inning Score Predictor using Machine Learning
-Built a predictive model to estimate first-inning scores in IPL matches based on game conditions. Achieved high accuracy using machine learning techniques. [GitHub Repository](https://github.com/SanyujaShelke/IPL-First-Inning-Score-Predictor)
+### 🩺 Ambient Listening - Medical Conversation AI
 
-### Automatic Vehicle Number Plate Detection using Deep Learning
-Developed a real-time vehicle number plate detection system to assist college security guards. The system utilizes YOLO object detection to identify license plates and sends notifications to designated personnel. [GitHub Repository](https://github.com/SanyujaShelke/Automatic-Vehicle-Number-Plate-Detection-System) 
+Healthcare AI platform for processing doctor-patient conversations.
 
-## Skills
+* Independently developed the **speech-to-text component** for real-time and post-session medical conversation transcription using Google Speech-to-Text.
+* Contributed to the **SOAP note generation component** using **Gemini LLM through Vertex AI** to transform medical conversation transcriptions into structured SOAP notes.
 
-### Programming Languages
-- Python
-- JavaScript
-- HTML
-- CSS
+**Technologies:** Python, FastAPI, Google Speech-to-Text, Gemini, Vertex AI, GCP
 
-### Machine Learning & Deep Learning
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- TensorFlow
-- Keras
-- Natural Language Processing (NLP)
+---
 
-### Python Frameworks
-- Django
-- Flask
+### 📄 Paper EOB Processing System
 
-### Data Visualization
-- Power BI
-- Tableau
+Production-grade AI system for automating paper Explanation of Benefits (EOB) processing.
+
+* Processes payer-specific EOB PDFs using **Google Document AI and LLM-based extraction**.
+* Converts unstructured documents into structured data through automated cloud processing.
+* Built cloud-based processing pipelines for scalable document ingestion and processing.
+
+**Technologies:** Python, Google Document AI, LLM, Cloud Run, Cloud Functions, Cloud Storage
+
+---
+
+### 🎓 Pathways Academy - Learning Management System
+
+Full-stack LMS platform developed for TRIARQ.
+
+* Led the project from **planning and solution design through implementation, testing, deployment and validation**.
+* Developed the frontend using **Angular**.
+* Developed backend APIs and services using **FastAPI and Python**.
+
+**Technologies:** Angular, FastAPI, Python
+
+---
+
+### 🤖 QScout - Agentic AI Gap Detection
+
+Agentic AI solution designed to identify potential gaps in clinical documentation.
+
+* Independently developed an AI agent that compares **patient history data with current provider notes**.
+* Identifies potential documentation gaps that may have been missed by the provider.
+* Provides actionable suggestions to help providers address identified gaps.
+
+**Technologies:** Python, LLM, Agentic AI
+
+
+## 🛠️ Tech Stack
+
+### Programming & Frameworks
+
+* Python
+* FastAPI
+* Flask
+* Django
+* Angular
+
+### Generative AI & AI
+
+* Gemini
+* Vertex AI
+* LLMs
+* Agentic AI
+* Prompt Engineering
+* Google Document AI
+* Google Speech-to-Text
+
+### Machine Learning
+
+* Scikit-learn
+* TensorFlow
+* Keras
+* Pandas
+* NumPy
+
+### OCR & Computer Vision
+
+* OpenCV
+* Tesseract OCR
+
+### Cloud & Deployment
+
+* Google Cloud Platform (GCP)
+* Cloud Run
+* Cloud Functions
+* Cloud Storage
+* Cloud Scheduler
 
 ### Databases
-- MySQL
-- SQLite
 
-### Version Control
-- Git
+* PostgreSQL
+* MySQL
 
-### Cloud Services
-- AWS (EC2, S3, SageMaker)
+### Tools
 
-## Get in Touch
+* Git
+* Postman
+* Selenium
+* Requests
 
-- GitHub: [SanyujaShelke](https://github.com/SanyujaShelke)
-- LinkedIn: [Sanyuja Shelke](https://www.linkedin.com/in/sanyuja-shelke-ba6673210/)
-- Email: shelkesanyuja7774@gmail.com
+## 📈 Career Journey
 
-Feel free to reach out if you have any questions, want to collaborate, or just want to connect!
+**Software Engineer - AI Team**
+TRIARQ Health | Aug 2026 - Present
+
+↓ Promoted from Associate Engineer
+
+**Associate Engineer - AI Team**
+TRIARQ Health | May 2025 - Jul 2026
+
+↓ Promoted from Intern
+
+**Python Developer Intern - Automation Team**
+TRIARQ Health | Oct 2024 - Apr 2025
+
+**Machine Learning Intern**
+Radiant IT Services | Feb 2023 - Jun 2023
+
+## 🤝 Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/sanyuja-shelke-ba6673210/)
+* 📧 [Email](mailto:shelkesanyuja7774@gmail.com)
+* 💻 [GitHub](https://github.com/SanyujaShelke)
+
+I'm always interested in connecting with people working on **AI, GenAI, Agentic AI, healthcare technology and software engineering**.
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
