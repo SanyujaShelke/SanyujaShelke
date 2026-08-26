@@ -2,34 +2,31 @@
 
 ### Software Engineer | AI Engineer | GenAI & Agentic AI
 
-I'm a Software Engineer working in the AI team at **TRIARQ Health**, building production-grade AI and software solutions for healthcare workflows.
+I'm a Software Engineer in the **AI Team at TRIARQ Health**, building production-grade AI and software solutions for healthcare workflows.
 
-I have experience across **Generative AI, Agentic AI, Document AI, speech-to-text, backend development and cloud-based applications**, with a strong focus on taking solutions from planning and architecture through development, testing, deployment and production validation.
+My experience spans **Generative AI, Agentic AI, Document AI, speech-to-text, backend development and cloud-based AI systems**, with a focus on taking solutions from planning and architecture through development, testing, deployment and production validation.
 
 ## 🚀 About Me
 
-* 💻 Software Engineer in the **AI Team at TRIARQ Health**
-* 🤖 Experienced in **LLMs, Gemini, Vertex AI, Agentic AI, Document AI and Speech-to-Text**
-* 🏗️ Experience in **solution planning, architecture discussions, task planning, development, testing and deployment**
-* 👥 Currently leading the **AI team** and coordinating technical execution and cross-functional requirements
-* ☁️ Hands-on experience with **Google Cloud Platform (GCP)** and cloud-native AI solutions
-* 🐍 Strong background in **Python, FastAPI, Flask and Django**
-* 🌐 Experience building full-stack applications using **Angular + FastAPI**
-* 🏥 Focused on applying AI to solve real-world **healthcare and clinical workflow problems**
-* 🎓 Bachelor's degree in **Computer Engineering**
+- 💻 Software Engineer in the **AI Team at TRIARQ Health**
+- 🤖 Experienced in **LLMs, Gemini, Vertex AI, Agentic AI, Document AI and Speech-to-Text**
+- 🏗️ Experience in **solution planning, architecture discussions, task planning, development, testing, deployment and production validation**
+- 👥 Currently leading AI initiatives with responsibility for **technical execution and cross-functional coordination**
+- ☁️ Hands-on experience with **Google Cloud Platform (GCP)** and cloud-based AI solutions
+- 🐍 Strong background in **Python and FastAPI**, with experience in Flask and Django
+- 🏥 Focused on applying AI to solve real-world **healthcare and clinical workflow problems**
+- 🎓 Bachelor's degree in **Computer Engineering**
 
 ## 🧠 Current Focus
 
-I'm currently working on:
-
-* **Generative AI & LLM applications**
-* **Agentic AI systems**
-* **Healthcare AI**
-* **Clinical documentation automation**
-* **Document AI & intelligent data extraction**
-* **Cloud-based AI solutions**
-* **Python backend development**
-* **AI solution architecture and technical leadership**
+- Generative AI & LLM applications
+- Agentic AI systems
+- Healthcare AI
+- Clinical documentation automation
+- Document AI & intelligent data extraction
+- Cloud-based AI solutions
+- Python backend development
+- AI solution architecture and technical leadership
 
 ## 🔥 Featured Projects
 
@@ -37,10 +34,10 @@ I'm currently working on:
 
 Healthcare AI platform for processing doctor-patient conversations.
 
-* Independently developed the **speech-to-text component** for real-time and post-session medical conversation transcription using Google Speech-to-Text.
-* Contributed to the **SOAP note generation component** using **Gemini LLM through Vertex AI** to transform medical conversation transcriptions into structured SOAP notes.
+- Independently developed the **speech-to-text component** for real-time and post-session medical conversation transcription using Google Cloud Speech-to-Text.
+- Contributed to the **SOAP note generation component** using **Gemini through Vertex AI** to transform medical conversation transcriptions into structured SOAP notes.
 
-**Technologies:** Python, FastAPI, Google Speech-to-Text, Gemini, Vertex AI, GCP
+**Technologies:** Python, FastAPI, REST APIs, Google Cloud Speech-to-Text, Vertex AI, Gemini, GCP
 
 ---
 
@@ -48,115 +45,124 @@ Healthcare AI platform for processing doctor-patient conversations.
 
 Production-grade AI system for automating paper Explanation of Benefits (EOB) processing.
 
-* Processes payer-specific EOB PDFs using **Google Document AI and LLM-based extraction**.
-* Converts unstructured documents into structured data through automated cloud processing.
-* Built cloud-based processing pipelines for scalable document ingestion and processing.
+- Built a **Google Document AI + LLM-based system** to process payer-specific EOB PDFs and extract structured information.
+- Implemented automated cloud-based processing pipelines for document ingestion, payer classification and claim-level data extraction.
+- Deployed scalable processing workflows using Google Cloud services.
 
-**Technologies:** Python, Google Document AI, LLM, Cloud Run, Cloud Functions, Cloud Storage
+**Technologies:** Python, Google Document AI, LLM, Cloud Run, Cloud Functions, Cloud Storage, Cloud Scheduler
 
 ---
 
 ### 🎓 Pathways Academy - Learning Management System
 
-Full-stack LMS platform developed for TRIARQ.
+Full-stack Learning Management System developed for TRIARQ.
 
-* Led the project from **planning and solution design through implementation, testing, deployment and validation**.
-* Developed the frontend using **Angular**.
-* Developed backend APIs and services using **FastAPI and Python**.
+- Led the project from **solution planning and architecture through implementation, testing, deployment and production validation**.
+- Worked on backend APIs and application services using **Python and FastAPI**.
+- Integrated database operations, authentication, cloud storage and Generative AI capabilities.
 
-**Technologies:** Angular, FastAPI, Python
+**Technologies:** Python, FastAPI, REST APIs, PostgreSQL, SQLAlchemy, Pydantic, Google Cloud Storage, Gemini AI, Docker
 
 ---
 
-### 🤖 QScout - Agentic AI Gap Detection
+### 🤖 QScout - Agentic AI Clinical Gap Detection
 
 Agentic AI solution designed to identify potential gaps in clinical documentation.
 
-* Independently developed an AI agent that compares **patient history data with current provider notes**.
-* Identifies potential documentation gaps that may have been missed by the provider.
-* Provides actionable suggestions to help providers address identified gaps.
+- Independently developed an **Agentic AI-powered clinical gap detection application** using Gemini on Vertex AI.
+- Compares patient records with current provider notes to identify **HCC and quality-measure gaps**.
+- Implements **ICD-10 code mapping, RAF impact calculation and MEAT-based recommendations** to help providers identify and address documentation gaps.
 
-**Technologies:** Python, LLM, Agentic AI
-
+**Technologies:** Python, FastAPI, REST APIs, Gemini, Vertex AI, Google Gen AI SDK, Pydantic, Prompt Engineering
 
 ## 🛠️ Tech Stack
 
 ### Programming & Frameworks
 
-* Python
-* FastAPI
-* Flask
-* Django
-* Angular
+- Python
+- FastAPI
+- Flask
+- Django
 
 ### Generative AI & AI
 
-* Gemini
-* Vertex AI
-* LLMs
-* Agentic AI
-* Prompt Engineering
-* Google Document AI
-* Google Speech-to-Text
+- Gemini
+- Vertex AI
+- Google Gen AI SDK
+- LLMs
+- Agentic AI
+- Prompt Engineering
+- LLM-based Data Extraction
+- Google Document AI
+- Google Speech-to-Text
 
-### Machine Learning
+### Machine Learning & Data Processing
 
-* Scikit-learn
-* TensorFlow
-* Keras
-* Pandas
-* NumPy
+- Scikit-learn
+- TensorFlow
+- Keras
+- Pandas
+- NumPy
+
+### APIs & Backend
+
+- REST APIs
+- Pydantic
+- SQLAlchemy
+- Uvicorn
 
 ### OCR & Computer Vision
 
-* OpenCV
-* Tesseract OCR
+- OpenCV
+- Tesseract OCR
 
 ### Cloud & Deployment
 
-* Google Cloud Platform (GCP)
-* Cloud Run
-* Cloud Functions
-* Cloud Storage
-* Cloud Scheduler
+- Google Cloud Platform (GCP)
+- Cloud Run
+- Cloud Functions
+- Cloud Storage
+- Cloud Scheduler
+- Docker
 
 ### Databases
 
-* PostgreSQL
-* MySQL
+- PostgreSQL
+- MySQL
 
 ### Tools
 
-* Git
-* Postman
-* Selenium
-* Requests
+- Git
+- GitHub
+- Postman
+- Selenium
+- Requests
 
 ## 📈 Career Journey
 
-**Software Engineer - AI Team**
+**Software Engineer - AI Team**  
 TRIARQ Health | Aug 2026 - Present
 
 ↓ Promoted from Associate Engineer
 
-**Associate Engineer - AI Team**
+**Associate Engineer - AI Team**  
 TRIARQ Health | May 2025 - Jul 2026
 
-↓ Promoted from Intern
+↓ Promoted from Python Developer Intern
 
-**Python Developer Intern - Automation Team**
+**Python Developer Intern - Automation Team**  
 TRIARQ Health | Oct 2024 - Apr 2025
 
-**Machine Learning Intern**
-Radiant IT Services | Feb 2023 - Jun 2023
+**Data Science Intern**  
+Radiant IT Services | Aug 2023 - Aug 2024
 
 ## 🤝 Let's Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/sanyuja-shelke-ba6673210/)
-* 📧 [Email](mailto:shelkesanyuja7774@gmail.com)
-* 💻 [GitHub](https://github.com/SanyujaShelke)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanyuja-shelke-ba6673210/)
+- 📧 [Email](mailto:shelkesanyuja7774@gmail.com)
+- 💻 [GitHub](https://github.com/SanyujaShelke)
 
-I'm always interested in connecting with people working on **AI, GenAI, Agentic AI, healthcare technology and software engineering**.
+I'm interested in connecting with people working on **AI, Generative AI, Agentic AI, healthcare technology and software engineering**.
 
 ---
 
